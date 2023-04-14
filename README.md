@@ -88,9 +88,9 @@ This project uses several endpoints from TheMovieDB API. Here is the endpoint li
 
 1. Clone this repository
    
-   `git clone https://github.com/Ardywsptr/AWSMovies_Submission-Fundamental-Front-End-Web-Developer/.git
+   `git clone https://github.com/Ardywsptr/AWSMovies_Submission-Fundamental-Front-End-Web-Developer/.git`
 
-    cd AWSMovies_Submission-Fundamental-Front-End-Web-Developer`
+    `cd AWSMovies_Submission-Fundamental-Front-End-Web-Developer`
    
 2. Install NPM
    
